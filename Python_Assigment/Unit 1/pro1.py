@@ -2,8 +2,10 @@
 
 name=input("Enter your name :=")
 age = int(input("Enter your age :="))
+city = input("Enter your city :=")
 print("hello",name)
 print("your age is ",age)
+print("Your city is ",city)
 
 '''
 output :-
